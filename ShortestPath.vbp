@@ -1,0 +1,37 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\WINDOWS\system32\stdole2.tlb#OLE Automation
+Form=frmMain.frm
+Module=ModShortestPath; ModShortestPath.bas
+IconForm="frmMain"
+Startup="Sub Main"
+HelpFile=""
+Title="ShortestPath"
+ExeName32="ShortestPath.exe"
+Command32=""
+Name="ShortestPath"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=3
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionCompanyName="Tait Electronics Ltd"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=0
+NoAliasing=-1
+BoundsCheck=-1
+OverflowCheck=-1
+FlPointCheck=-1
+FDIVCheck=-1
+UnroundedFP=-1
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
